@@ -2,7 +2,7 @@
 
 ## Control Objective
 
-Smart contracts in public blockchains have no built-in mechanism to store secret data securely. It is important to protect sensitive data from reading by an untrusted actor.
+Smart contracts in public blockchains have no built-in mechanism to store secret data securely. It is important to protect sensitive data from being read by an untrusted actor.
 
 Ensure that a verified contract satisfies the following high-level requirements:
 * Data stored in smart contract is identified and protected,
